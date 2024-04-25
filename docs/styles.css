@@ -140,7 +140,7 @@ section#about{
     flex-wrap: wrap;
     background-image: url(assets/images/IMG_A7912D478D9F-1.jpeg);
     background-position: center;
-    background-size: cover;
+    background-size: cover; 
     color: white;
     border-radius: 1em;
 }
